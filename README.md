@@ -6,3 +6,6 @@ For the installation
 2. import the database from folder 'database' backend
 3. setting your database
 3. Run on your localhost / server
+
+
+You can see the developing result at http://coach.yubiel.co.id/
